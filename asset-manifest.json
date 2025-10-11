@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/riskyvpn/static/css/main.7c3638e2.css",
-    "main.js": "/riskyvpn/static/js/main.1e6337c3.js",
+    "main.js": "/riskyvpn/static/js/main.baff002f.js",
     "static/media/logo.svg": "/riskyvpn/static/media/logo.fd21cd112f76c72d2e30ba26b93fb86a.svg",
     "index.html": "/riskyvpn/index.html",
     "main.7c3638e2.css.map": "/riskyvpn/static/css/main.7c3638e2.css.map",
-    "main.1e6337c3.js.map": "/riskyvpn/static/js/main.1e6337c3.js.map"
+    "main.baff002f.js.map": "/riskyvpn/static/js/main.baff002f.js.map"
   },
   "entrypoints": [
     "static/css/main.7c3638e2.css",
-    "static/js/main.1e6337c3.js"
+    "static/js/main.baff002f.js"
   ]
 }

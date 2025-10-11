@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>RiskyVPN</title>
+    <title>Single Page Apps for GitHub Pages</title>
     <script type="text/javascript">
-      var path = window.location.pathname;
-      window.location = '/riskyvpn/index.html' + path.replace('/riskyvpn', '');
+      sessionStorage.setItem('redirectPath', window.location.pathname + window.location.search + window.location.hash);
+      window.location = '/riskyvpn/index.html';
     </script>
   </head>
   <body>
